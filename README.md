@@ -1,6 +1,6 @@
 # Multimodal Search Engine
 
-A multimodal search engine using text and image based search using algorithms TF-IDF, Word2Vec, SIFT and Bag of Visual Words. It shows closely related words and images when given a word or image as input. Search Engine data contains articles of 100 choosen words from wikipedia and 50 imaages per word downloaded from google images.  
+A multimodal search engine using text and image based search using algorithms TF-IDF, Word2Vec, SIFT and Bag of Visual Words. It shows closely related words and images when given a word or image as input. Search Engine data contains articles of 100 choosen words from wikipedia and 50 images per word downloaded from google images.  
 
 ## Required Packages
 
@@ -31,7 +31,7 @@ ipynb
 webbrowser
 ```
 
-For downloading images, chromedriver.exe is required to crawl through the images from google search and download the images.
+For downloading images or web-scrapping images, chromedriver.exe is required to crawl through the images from google search and download the images.
 
 ## Algorithms 
 
